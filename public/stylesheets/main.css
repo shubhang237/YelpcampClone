@@ -1,0 +1,17 @@
+
+.thumbanil img{
+    width: 100%;
+}
+
+.thumbanil{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.display-inline {
+    
+    display: inline;
+}
